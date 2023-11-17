@@ -5,3 +5,6 @@
 [submodule "RMSD"]
 	path = RMSD
 	url = https://github.com/kazwd2008/rmsd
+[submodule "RMSDp"]
+	path = RMSDp
+	url = https://github.com/kazwd2008/rmsdp
