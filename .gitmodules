@@ -8,3 +8,6 @@
 [submodule "RMSDp"]
 	path = RMSDp
 	url = https://github.com/kazwd2008/rmsdp
+[submodule "robRatio"]
+	path = robRatio
+	url = https://github.com/kazwd2008/robratio
